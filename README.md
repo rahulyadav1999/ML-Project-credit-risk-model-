@@ -143,6 +143,10 @@ http://localhost:8501
 - Add explainability to understand the factors influencing predictions.
 - Deploy the application for public access.
 
+## Application Screenshot
+
+![Credit Risk Prediction Application](credit-risk-app.png)
+
 ## Disclaimer
 
 This project is developed for educational and demonstration purposes. Its predictions should not be used as the sole basis for real-world lending or financial decisions.
